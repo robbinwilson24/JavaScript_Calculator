@@ -20,10 +20,10 @@ A fully functional calculator created with HTML, Javascript, CSS and Bootstrap.
 
 ## Technologies Used <a name="technologies"/>
 The following technologies were used to create this pricing page:
-    - JavaScript
-    - HTML
-    - CSS
-    - Bootstrap
+- JavaScript
+- HTML
+- CSS
+- Bootstrap
 
 
 
